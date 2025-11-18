@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Интерфейс, рест-апи, входное овно для интеграции"
+    id="id-0c3a636d25c440738dfd4a640d14aa95"
+    documentation="Мой сервис, который выгружает информацию о кандидатах в определенном статусе &quot;Интервью пройдено&quot;, &quot;Оффер выдан&quot; для дальнйшей загрузки в &quot;Систему кандидата&quot;"/>

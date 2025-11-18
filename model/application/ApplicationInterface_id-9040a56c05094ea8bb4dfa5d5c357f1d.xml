@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StatusCandidate"
+    id="id-9040a56c05094ea8bb4dfa5d5c357f1d"
+    documentation="Мой сервис, который выгружает информацию о статусах кандидатов"/>

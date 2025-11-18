@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GetCandidate"
+    id="id-f674b975fe5242428a7f76efc5a61238"
+    documentation="Мой сервис, который выгружает информацию о кандидатах в определенном статусе &quot;Интервью пройдено&quot;, &quot;Оффер выдан&quot; для дальнйшей загрузки в &quot;Систему кандидата&quot;"/>

@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Учетная система должна получить информацию о канжижате и его документах только после проверки безопасности"
+    id="id-9b342c36783648ea864d234735f7a107"/>

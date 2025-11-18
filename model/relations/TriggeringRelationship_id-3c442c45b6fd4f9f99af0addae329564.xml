@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Если кандидат заполнил почту"
+    id="id-3c442c45b6fd4f9f99af0addae329564">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-21df5e7a0db64a4285f15d6ac00f0195.xml#id-21df5e7a0db64a4285f15d6ac00f0195"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-6d0467eac3dd45a59d4bcf40ccb4eeb1.xml#id-6d0467eac3dd45a59d4bcf40ccb4eeb1"/>
+</archimate:TriggeringRelationship>

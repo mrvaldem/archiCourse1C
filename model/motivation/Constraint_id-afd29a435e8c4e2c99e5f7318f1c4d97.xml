@@ -1,0 +1,4 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HR-портал предоставляет только API по сущностям &quot;Кандидат&quot; и &quot;Статус заявки&quot;"
+    id="id-afd29a435e8c4e2c99e5f7318f1c4d97"/>
