@@ -497,6 +497,7 @@
 			<Form>ФормаЭлемента</Form>
 			<Form>ФормаСписка</Form>
 			<Form>Календарь</Form>
+			<Form>Форма</Form>
 			<Command uuid="677e13a7-d382-4862-a616-2c845e6fd734">
 				<Properties>
 					<Name>ОткрытьКалендарь</Name>
