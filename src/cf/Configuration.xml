@@ -500,6 +500,7 @@
 			<Catalog>ИсходящиеПисьма</Catalog>
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
 			<Catalog>Встречи</Catalog>
+			<Catalog>ТребованияККандидатам</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
@@ -507,6 +508,7 @@
 			<Document>ПриходТовара</Document>
 			<Document>РасходТовара</Document>
 			<Document>РасходДенег</Document>
+			<Document>АнкетаКандидатаДляИБ</Document>
 			<DocumentJournal>ДокументыПродаж</DocumentJournal>
 			<DocumentJournal>ФинансовыеДокументы</DocumentJournal>
 			<Enum>ВидыТоваров</Enum>
@@ -517,6 +519,7 @@
 			<Enum>СостоянияЗаказов</Enum>
 			<Enum>НазначениеХарактеристик</Enum>
 			<Enum>ИспользоватьПровайдерГеопозиционирования</Enum>
+			<Enum>СтатусыЗаявокККандитам</Enum>
 			<Report>ВзаимосвязьПродажТоваров</Report>
 			<Report>ДашбордПродажи</Report>
 			<Report>ДинамикаПродаж</Report>
